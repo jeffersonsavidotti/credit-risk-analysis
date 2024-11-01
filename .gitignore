@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Anaconda3-*.sh
 
 # C extensions
 *.so
